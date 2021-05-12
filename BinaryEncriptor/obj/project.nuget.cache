@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HAq1lRnbuSJ79g8YiLBQFcgI1cVXI++we+fSHATw/UTnw7Yc4vn6m/qHcMNV5zPjAELKpj3j9ad1GwwM2XgVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafik\\Desktop\\Raf\\C# Master Class\\BinaryEncriptor\\BinaryEncriptor\\BinaryEncriptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

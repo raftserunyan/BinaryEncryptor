@@ -1,0 +1,13 @@
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.exe
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.deps.json
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.runtimeconfig.json
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.runtimeconfig.dev.json
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.dll
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\bin\Debug\netcoreapp3.1\BinaryEncriptor.pdb
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.csprojAssemblyReference.cache
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.AssemblyInfoInputs.cache
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.AssemblyInfo.cs
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.csproj.CoreCompileInputs.cache
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.dll
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.pdb
+C:\Users\Rafik\Desktop\Raf\C# Master Class\BinaryEncriptor\BinaryEncriptor\obj\Debug\netcoreapp3.1\BinaryEncriptor.genruntimeconfig.cache
